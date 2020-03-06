@@ -3,7 +3,7 @@ title: "Bolivia electoral 2020"
 output: 
   flexdashboard::flex_dashboard:
     navbar:
-      - { icon: "fa-home", href: "http://boliviaelectoral.com/", align: left }
+      - { icon: "fa-home", href: "https://fesbolivia.github.io/landing_be_20_rmd/", align: left }
     theme: readable
     orientation: rows
 ---

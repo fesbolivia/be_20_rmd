@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "990298385",
+    "hash" : "3557283714",
     "id" : "D456D4AC",
-    "lastKnownWriteTime" : 1583293286,
-    "last_content_update" : 1583293286,
+    "lastKnownWriteTime" : 1583460595,
+    "last_content_update" : 1583460595209,
     "path" : "~/Documents/consultorias/be_20_rmd/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "5,81",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
