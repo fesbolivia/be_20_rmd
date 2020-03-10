@@ -49,8 +49,7 @@ Si gusta consultar la base de datos con los resultados desagregados, incluyendo 
 
 Para simplificar el análisis, hemos consolidado como “Voto no declarado” las categorías ”No sabe/No responde”, “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, “Blanco/Nulo” y “Ninguno/Blanco/Nulo”.
 
-En caso de que algún candidato o candidata no estuviesen registrados en determinada encuesta, se completó este valor perdido con el valor más cercano. Por ejemplo, si la candidatura “x” fue computada para enero pero no para febrero, se repitió el valor de enero para febrero. El fin de esto es poder tener una proyección similar y comparable para todas las candidaturas.
-
+En caso de que algún candidato no estuviese registrado en determinada encuesta, se completó este valor perdido con el valor más cercano. Por ejemplo, si la candidatura “x” fue computada para enero pero no para febrero, se repitió el valor de enero para febrero, con el fin de tener una proyección similar y comparable para todas las candidaturas.
 
 
 
