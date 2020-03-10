@@ -33,22 +33,25 @@ Row {.tabset .tabset-fade}
 
 ### Metodología 
 
+<h3><b>Sobre resultados **con** ponderaciones</h3></b>
+
+Considerando que en algunos meses se publican varias encuestas, la presente visualización realiza una síntesis numérica con base en promedios para las encuestas realizadas. Se toman dos criterios para generar promedios ponderados. En primer lugar, la cobertura de la muestra pretende asignar mayor peso a aquellas encuestas cuyo marco muestral cubre una mayor proporción del país (ej. capitales + ciudades intermedias + área rural > eje troncal). Este criterio representa 60% de la ponderación. En segundo lugar, para el 40% restante, se toman los tamaños de las muestras de cada encuesta, con el fin de asignarle un mayor peso a las que tienen un número elevado de personas encuestadas (ej. 2400 > 800).<br>
+<br>
+<br>
+
 <b><h3>Sobre resultados **sin** ponderaciones</h3></b>
 
-Las visualizaciones incluyen únicamente datos para las cuatro postulaciones con mayor intención de voto, dado que incluir líneas individuales para cada uno de los 13 candidatos (ya sea que su participación en las elecciones se concrete o no) genera más ruido que claridad en la representación gráfica de tendencias. 
+Las visualizaciones incluyen únicamente datos para las cuatro postulaciones con mayor intención de voto, dado que incluir líneas individuales para cada uno de los 13 candidatos (ya sea que su participación en las elecciones se concrete o no) dificulta la claridad en la representación gráfica de tendencias. 
 
 En el caso de la postulación del MAS-IPSP, su candidatura a la presidencia no estaba definida y varias encuestadoras se refirieron a diferentes candidatos. Para facilitar la lectura de la tendencia, pusimos en la misma línea tanto la intención de voto por Andrónico Rodríguez (en los meses de noviembre y diciembre de las encuestas de Mercados y Muestras) como la de Luis Arce en general, ya sea anterior o posterior a su nombramiento oficial. 
 
-Si gusta consultar la base de datos con los resultados disgregados, incluyendo al resto de los candidatos, puede hacerlo en la sección “Base de datos” de esta misma página.
+Si gusta consultar la base de datos con los resultados desagregados, incluyendo al resto de los candidatos, puede hacerlo en la sección “Base de datos” de esta misma página.
 
-Para simplificar el análisis, hemos consolidado como “Voto no declarado” las categorías ”No sabe/No responde”, “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, “Blanco/Nulo” y “Ninguno/Blanco/Nulo”.<br>
-<br>
-<br>
+Para simplificar el análisis, hemos consolidado como “Voto no declarado” las categorías ”No sabe/No responde”, “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, “Blanco/Nulo” y “Ninguno/Blanco/Nulo”.
+
+En caso de que algún candidato o candidata no estuviesen registrados en determinada encuesta, se completó este valor perdido con el valor más cercano. Por ejemplo, si la candidatura “x” fue computada para enero pero no para febrero, se repitió el valor de enero para febrero. El fin de esto es poder tener una proyección similar y comparable para todas las candidaturas.
 
 
-<h3><b>Sobre resultados **con** ponderaciones</h3></b>
-
-Considerando que en algunos meses se publican varias encuestas, la presente visualización realiza una síntesis numérica con base en promedios para las encuestas realizadas. Se toman dos criterios para generar promedios ponderados. En primer lugar, la cobertura de la muestra pretende asignar mayor peso a aquellas encuestas cuyo marco muestral cubre una mayor proporción del país (ej. capitales + ciudades intermedias + área rural > eje troncal). Este criterio representa 60% de la ponderación. En segundo lugar, para el 40% restante, se toman los tamaños de las muestras de cada encuesta, con el fin de asignarle un mayor peso a las que tienen un número elevado de personas encuestadas (ej. 2400 > 800).
 
 
 Base de datos {data-icon="fa-database"}
