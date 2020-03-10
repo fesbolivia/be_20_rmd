@@ -20,16 +20,16 @@ Resultados encuestas {data-icon="fa-chart-bar"}
 Row {.tabset .tabset-fade}
 -------------------------------------
 ### Voto válido: Resultados ponderados
-<iframe frameBorder="0" src="https://rafalopezv.io/static/elecciones2020/tendencia_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/tendencia_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Voto válido y no válido: Resultados ponderados
-<iframe frameBorder="0" src="https://rafalopezv.io/static/elecciones2020/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Voto válido: Resultados sin ponderadar
-<iframe frameBorder="0" src="https://rafalopezv.io/static/elecciones2020/scatter_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/scatter_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Voto válido y no válido: Resultados sin ponderar
-<iframe frameBorder="0" src="https://rafalopezv.io/static/elecciones2020/scatter.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/scatter.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Metodología 
 
@@ -68,7 +68,7 @@ Row {.tabset .tabset-fade}
 <center><a href="https://docs.google.com/spreadsheets/d/15Mb5LFQWmPklB9dJA0dnRICieSoT3_G3xajOCDimBRs/edit#gid=624147339"><i class="fa fa-database fa-4x"></i></a></center>
 
 ### Fuentes de encuestas
-<iframe frameBorder="0" src="https://rafalopezv.io/static/elecciones2020/tabla.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/tabla.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 Padrón electoral {data-icon="fa-address-card"}
 =====================================  
@@ -120,8 +120,7 @@ Row {.tabset .tabset-fade}
 
 
 ### Comparación de los programas en la prensa
-
-Esta sección se actualizará con publicaciones en prensa nacional sobre los programas de gobierno 
+<iframe frameBorder="0" src="img/planes_periodicos.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Comparación de los programas por instituciones académicas y otras
 
