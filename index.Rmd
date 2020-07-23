@@ -45,6 +45,8 @@ Las visualizaciones incluyen únicamente datos para las cuatro postulaciones con
 
 En el caso de la postulación del MAS-IPSP, su candidatura a la presidencia no estaba definida y varias encuestadoras se refirieron a diferentes candidatos. Para facilitar la lectura de la tendencia, pusimos en la misma línea tanto la intención de voto por Andrónico Rodríguez (en los meses de noviembre y diciembre de las encuestas de Mercados y Muestras) como la de Luis Arce en general, ya sea anterior o posterior a su nombramiento oficial. 
 
+En el caso de la encuesta de Celag, del mes de junio, esta institución solo publicó el voto válido. Con base en la información publicada se calculó el voto válido y no válido.
+
 Si gusta consultar la base de datos con los resultados desagregados, incluyendo al resto de los candidatos, puede hacerlo en la sección “Base de datos” de esta misma página.
 
 Para simplificar el análisis, hemos consolidado como “Voto no declarado” las categorías ”No sabe/No responde”, “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, “Blanco/Nulo” y “Ninguno/Blanco/Nulo”.
